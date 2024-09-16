@@ -5,3 +5,7 @@ AMR data
 These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
 
 * id Integer - A unique identifier for each person
+
+* DOB
+* Specimen_date
+* IMD - quintile (1 is most deprived)
